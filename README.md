@@ -19,7 +19,7 @@ Unificar y analizar múltiples fuentes de datos con el fin de obtener informaci�
 
 ## Dataset
 
-Se trabajó con *cuatro tablas distintas, que fueron **unificadas en una sola* mediante técnicas de combinación (merge). Esto permitió disponer de una tabla consolidada para aplicar los cálculos y visualizaciones.
+Se trabajó con *cuatro tablas distintas, que fueron **unificadas en una sola** mediante técnicas de combinación (merge). Esto permitió disponer de una tabla consolidada para aplicar los cálculos y visualizaciones.
 
 ## Métricas calculadas y visualizaciones generadas
 
